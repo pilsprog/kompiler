@@ -1,0 +1,27 @@
+
+.container {
+	width: 700px;
+	margin: auto;
+	text-align: center;
+	margin: 48px auto;
+	padding: 48px 24px;
+	border-radius: 12px;
+	border: 1px solid #CCC;
+	line-height: 2;
+	font-size: 1.4em;
+	font-family: verdana, sans-serif;
+}
+
+input, button {
+	padding: 8px;
+	margin: 8px;
+	border-radius: 5px;
+	border: 1px solid #CCC;
+}
+
+button {
+	background: #DA192A;
+	color: white;
+	text-transform: uppercase;
+	font-size: 1em;
+}

@@ -6,7 +6,7 @@ lib-cov
 *.out
 *.pid
 *.gz
-
+app/config
 node_modules/
 
 pids
